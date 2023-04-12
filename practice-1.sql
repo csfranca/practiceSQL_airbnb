@@ -4,4 +4,6 @@
 -- | 302750   |
 -- +----------+
 
-
+SELECT COUNT(date_reviewed)
+FROM reviews
+;
